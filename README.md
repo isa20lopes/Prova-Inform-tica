@@ -10,4 +10,4 @@ Categorias:
 * Média de capacidade de inutilização por UF
 * Soma de capacidade de inutilização por ano 
 
-https://github.com/isaprin/Prova-Inform-tica/blob/main/Captura%20de%20tela%202024-05-16%20222319.png
+![Captura de tela 2024-05-16 222319](https://github.com/isaprin/Prova-Inform-tica/assets/163484630/6e2219f3-798b-4dc8-9cb9-49a98d4060fc)
