@@ -9,3 +9,5 @@ Categorias:
 * Soma de capacidade de inutilização por nome da empresa
 * Média de capacidade de inutilização por UF
 * Soma de capacidade de inutilização por ano 
+
+https://github.com/isaprin/Prova-Inform-tica/blob/main/Captura%20de%20tela%202024-05-16%20222319.png
